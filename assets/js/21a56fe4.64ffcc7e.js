@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfunix_web=self.webpackChunkfunix_web||[]).push([[457],{5719:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/funix-web/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

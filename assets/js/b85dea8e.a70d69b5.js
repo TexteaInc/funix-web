@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfunix_web=self.webpackChunkfunix_web||[]).push([[229],{6065:a=>{a.exports=JSON.parse('{"authors":[{"name":"Yazawazi","title":"Funix Maintainer","url":"https://yazawazi.moe","socials":{"x":"https://x.com/HMKAPJNHDMO","github":"https://github.com/Yazawazi"},"imageURL":"https://github.com/Yazawazi.png","key":"Yazawazi","page":null,"count":1}]}')}}]);

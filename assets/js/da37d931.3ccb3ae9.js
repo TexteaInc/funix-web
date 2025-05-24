@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfunix_web=self.webpackChunkfunix_web||[]).push([[69],{6765:e=>{e.exports=JSON.parse('{"tags":[{"label":"Features","permalink":"/funix-web/blog/tags/features","description":"Something new features","count":1}]}')}}]);

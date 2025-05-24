@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfunix_web=self.webpackChunkfunix_web||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello","permalink":"/funix-web/blog/2025-05-24-hello","unlisted":false,"date":"2025-05-24T00:00:00.000Z"}]}')}}]);

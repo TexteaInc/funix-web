@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Funix Site Blog</title>
+        <link>https://texteainc.github.io/funix-web/blog</link>
+        <description>Funix Site Blog</description>
+        <lastBuildDate>Sat, 24 May 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Hello]]></title>
+            <link>https://texteainc.github.io/funix-web/blog/2025-05-24-hello</link>
+            <guid>https://texteainc.github.io/funix-web/blog/2025-05-24-hello</guid>
+            <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the Funix Wiki & Blog site, where future Funix documentation, releases, and updates will gradually be moved.]]></description>
+            <content:encoded><![CDATA[<p>This is the Funix Wiki &amp; Blog site, where future Funix documentation, releases, and updates will gradually be moved.</p>]]></content:encoded>
+            <category>Features</category>
+        </item>
+    </channel>
+</rss>

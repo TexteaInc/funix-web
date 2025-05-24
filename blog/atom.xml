@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://texteainc.github.io/funix-web/blog</id>
+    <title>Funix Site Blog</title>
+    <updated>2025-05-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://texteainc.github.io/funix-web/blog"/>
+    <subtitle>Funix Site Blog</subtitle>
+    <icon>https://texteainc.github.io/funix-web/img/f-logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello]]></title>
+        <id>https://texteainc.github.io/funix-web/blog/2025-05-24-hello</id>
+        <link href="https://texteainc.github.io/funix-web/blog/2025-05-24-hello"/>
+        <updated>2025-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the Funix Wiki & Blog site, where future Funix documentation, releases, and updates will gradually be moved.]]></summary>
+        <content type="html"><![CDATA[<p>This is the Funix Wiki &amp; Blog site, where future Funix documentation, releases, and updates will gradually be moved.</p>]]></content>
+        <author>
+            <name>Yazawazi</name>
+            <uri>https://yazawazi.moe</uri>
+        </author>
+        <category label="Features" term="Features"/>
+    </entry>
+</feed>

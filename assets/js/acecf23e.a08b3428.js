@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfunix_web=self.webpackChunkfunix_web||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/funix-web/blog","blogTitle":"Blog","authorsListPath":"/funix-web/blog/authors"}')}}]);
