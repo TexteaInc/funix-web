@@ -41,7 +41,7 @@ function HomepageHeader() {
             <ReactPrismjs source={demoCode} language="python" className={styles.demoCode} />
             <ReactPrismjs source={"$ funix generate.py"} language="bash" className={styles.demoCode} />
           </div>
-          <img src="/img/funix_generate_image.png" alt="Funix Demo" />
+          <img src="img/funix_generate_image.png" alt="Funix Demo" />
         </div>
         <div className={styles.buttons}>
           
