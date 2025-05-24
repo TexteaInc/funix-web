@@ -1,0 +1,9 @@
+features:
+  label: Features
+  permalink: /features
+  description: Something new features
+
+fixes:
+  label: Fixes
+  permalink: /fixes
+  description: Something new fixes
